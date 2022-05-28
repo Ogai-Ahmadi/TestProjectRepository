@@ -6,7 +6,7 @@ public class GitBatch13example {
 		// TODO Auto-generated method stub
 		System.out.println("This is second class in git");
 		System.out.println("This is second class in git");
-		System.out.println("lets make some changes");
+		System.out.println("lets make some ");
 	}
 	
 
